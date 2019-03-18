@@ -7,6 +7,13 @@ const data=[
             image: 'img/ravi1.JPG'
           },
           {
+            name: 'Abhay Singh',
+            age: 20,
+            gender: 'Male',
+            location: 'Gwalior',
+            image: 'img/abhay.JPG'
+          },
+          {
             name: 'Aditya Wankhede',
             age: 21,
             gender: 'Male',
@@ -28,11 +35,32 @@ const data=[
               image: 'img/sarfaraj.JPG'
               },
               {
+                name: 'Ashok Bisnoi',
+                age: 21,
+                gender: 'Male',
+                location: 'Rajasthan',
+                image: 'img/ashok.JPG'
+                },
+              {
+                name: 'Karanveer Kajla',
+                age: 21,
+                gender: 'Male',
+                location: 'Punjab',
+                image: 'img/karan.JPG'
+                },
+              {
                 name: 'Chetan Bhalotia',
                 age: 20,
                 gender: 'Male',
                 location: 'Bihar',
                 image: 'img/chetan.JPG'
+              },
+              {
+                name: 'Prashant Sachan',
+                age: 20,
+                gender: 'Male',
+                location: 'Kanpur',
+                image: 'img/prashant.JPG'
               },
               {
                 name: 'Vikash Saini',
